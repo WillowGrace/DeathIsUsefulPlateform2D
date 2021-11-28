@@ -9,6 +9,7 @@ TagManager:
   - Bed
   - Light
   - Done
+  - ScoreBourd
   layers:
   - Default
   - TransparentFX
